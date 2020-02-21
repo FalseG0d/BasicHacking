@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+#Requires a "Vulnabanners.txt" text file which contains the list of all vulnerabilities to compare the data returned from the 
+#sockets and print the them out.
+
 import socket
 import os
 import sys
