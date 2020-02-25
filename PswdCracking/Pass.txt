@@ -1,0 +1,7 @@
+admin1:password
+admin2:password123
+admin3:admin
+root1:toor
+root2:password
+root3:APdWL8u738ntY
+root4:basketball
