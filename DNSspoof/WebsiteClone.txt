@@ -1,0 +1,16 @@
+#This is a text file directing hackers on how to clone a unsecures webpage on a linux based OPerating System.
+#A similar approached can be done on a windows PC with appropriate changes.
+#Requirements: sudo priveledges
+# Here the <#> is for terminal commands
+
+1.# service apache2 start
+<This will ebable the selected pages to any device on our local network as our system's ip address>
+2.Go to the desired website <Right Click> and select <Save Page As>
+3.Move the files saved earlier to /var/www/html
+<Make sure to remove all the data present on the above folder before hand>
+<This the folder where a project is deployed on>
+4.Rename the <webpage>.html file as index.html
+5.Go to your web browser and type your respective ip address
+<If unknow use <<ifconfig>> command on terminal>
+6.# service apache2 stop
+<When you are done spoofing>
