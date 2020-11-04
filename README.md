@@ -108,7 +108,7 @@ git clone https://github.com/FalseG0d/BasicHacking.git
 
 * **False God** - *Initial work* - [FalseG0d](https://github.com/FalseG0d)
 
-Your Name - [@ApoorvG03132459](https://twitter.com/ApoorvG03132459) - u.garg.10@gmail.com
+Apoorv Garg - [@ApoorvG03132459](https://twitter.com/ApoorvG03132459) - u.garg.10@gmail.com
 
 Project Link: [https://github.com/FalseG0d/BasicHacking](https://github.com/FalseG0d/BasicHacking)
 
@@ -131,4 +131,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 [license-url]: https://github.com/FalseG0d/BasicHacking/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/apoorv-garg-137137171/
-[product-screenshot]: images/pexels.jpg
+[product-screenshot]: images/pexels.jpeg
