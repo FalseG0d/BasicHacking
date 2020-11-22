@@ -40,6 +40,7 @@
 * [Getting Started](#getting-started)
 * [Prerquisites](#prerquisites)
 * [Content List](#content-list)
+* [Malware List](#malware-list)
 * [Built With](#built-with)
 * [Authors](#authors)
 * [License](#license)
@@ -71,6 +72,12 @@ git clone https://github.com/FalseG0d/BasicHacking.git
 4. [Local_Network](/LocalNW)
 5. [Password_Cracking](/PswdCracking)
 6. [SSH/FTP_Attacks](/SSHFTPAtks)
+
+## Malware List
+
+1. [Python Botnet](/PythonMalware/PythonBotnet)
+2. [Python DDOS](/PythonMalware/PythonDDOS)
+3. [Python Virus](/PythonMalware/PythonVirus)
 
 ## Built With
 
